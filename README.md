@@ -12,4 +12,4 @@ Changelog
 - - Create <https://github.com/TCNJ-CCM/CCM>
 - - Delete <https://github.com/TCNJ-CCM/CCM> <!-- are you kidding me -->
 - - Create <https://github.com/TCNJ-CCM/CCM>
-- - test commit
+- - test commit (passed)
