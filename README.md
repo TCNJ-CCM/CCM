@@ -3,6 +3,9 @@
 - - -
 Changelog
 
+- Day 2 - 05082024
+- - test commit
+
 - Day 1 - 05072024
 - - Create README.md
 - - Create <https://github.com/TCNJ-CCM/TCNJ-CCM>
