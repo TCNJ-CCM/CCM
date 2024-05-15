@@ -3,6 +3,11 @@
 - - -
 Changelog
 
+- Day 3 - 05152024
+- - Added bootstrap
+- - Header
+- - Create img/CCM Spiritual Center.png
+
 - Day 2 - 05082024
 - - Create index.html
 - - Create style.css
