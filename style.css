@@ -1,15 +1,7 @@
-html{
-    max-width: 1920px;
-    overflow-x: hidden;
-}
-.text-header{
-    font-size: 68px;
-    color: #fafafa
-}
-#header {
-    padding-top: 300px;
-    background-image: url(img/CCM\ Spiritual\ Center.png);
-    background-size: contain;
-    background-position-x: center;
-    background-repeat: no-repeat;
-}
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Red+Rose:wght@300..700&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+html{ max-width: 1920px; overflow-x: hidden; background-color: #EDF7FD; }
+.text-header{ font-size: 64px; color: #fafafa; }
+#header { padding-top: 166px; background-image: url(img/CCM\ Spiritual\ Center.png); background-size: contain; background-position-x: center; background-repeat: no-repeat; }
+.text-subheader{ font-size: 32px; color: #183A38; background-color: #CDEFF4; border-radius: 25px; }
+.text-header.sh-header{ font-size: 32px; }
+.text-content{ font-size: 24px; color: #000414; }

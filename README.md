@@ -3,6 +3,12 @@
 - - -
 Changelog
 
+- Day 4 - 05162024
+- - Added subheader
+- - Added color palette
+- - Fixed header image
+- - Fixed header spacing
+
 - Day 3 - 05152024
 - - Added bootstrap
 - - Header
