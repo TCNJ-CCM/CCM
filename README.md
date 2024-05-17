@@ -1,7 +1,18 @@
 # TCNJ-CCM
 
+Website for the Catholic Campus Ministry at The College of New Jersey, Ewing, New Jersey 08638. Created for Lauren Farrell ('24). Created by Joseph Farrell ('28).
+
+- Lines of Code: 
+
 - - -
-Changelog
+
+## CHANGELOG
+
+- Day 5 - 05172024
+- - Added context to project
+- - Added code line breakdown
+- - Added most content
+- - Logged image usage
 
 - Day 4 - 05162024
 - - Added subheader
@@ -42,3 +53,13 @@ Changelog
 - - Delete <https://github.com/TCNJ-CCM/CCM> <!-- are you kidding me -->
 - - Create <https://github.com/TCNJ-CCM/CCM>
 - - test commit (passed)
+
+- - -
+
+## CODE LINE BREAKDOWN
+
+- - root/index.html - 
+- - root/style.css - 
+- - root/README.md - 
+- - root/dev/imgUsage.md - 17
+- - root/dev/maintaining.md - 
