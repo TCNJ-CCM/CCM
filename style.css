@@ -2,7 +2,7 @@
 html{ max-width: 1920px; overflow-x: hidden; background-color: #EDF7FD; }
 .text-header{ font-size: 64px; color: #fafafa; text-shadow: 2px 2px black, 2px -2px black, -2px 2px black, -2px -2px black; font-family: "Poetsen One", cursive; }
 .text-header.sh-header{ font-size: 32px; }
-#header{ padding-top: 166px; background-image: url(img/CCM\ Spiritual\ Center.png); background-size: contain; background-position-x: center; background-repeat: no-repeat; }
+#header{ padding-top: 136px; padding-bottom: 30px; background-image: url(img/CCM\ Spiritual\ Center.png); background-size: contain; background-position-x: center; background-repeat: no-repeat; }
 .text-subheader{ font-size: 48px; color: #183A38; background-color: #CDEFF4; border-radius: 25px; font-family: "Red Rose", serif; }
 .text-content{ font-size: 24px; color: #000414; line-height: 65px; font-family: Urbanist, sans-serif; }
 .text-content>p{ font-size: 30px; font-weight: 700;}

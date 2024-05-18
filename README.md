@@ -8,6 +8,11 @@ Website for the Catholic Campus Ministry at The College of New Jersey, Ewing, Ne
 
 ## CHANGELOG
 
+- Day 6 - 05182024
+- - Fixed pic section
+- - Created instagram iframe
+- - Created footer
+
 - Day 5 - 05172024
 - - Added context to project
 - - Added code line breakdown
