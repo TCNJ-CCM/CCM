@@ -2,11 +2,19 @@
 
 Website for the Catholic Campus Ministry at The College of New Jersey, Ewing, New Jersey 08638. Created for Lauren Farrell ('24). Created by Joseph Farrell ('28).
 
-- Lines of Code: 
+- Lines of Code: 302
 
 - - -
 
 ## CHANGELOG
+
+- Day 8 - 05202024
+- - Added information for footer
+- - Fixed image height
+- - Added captions
+- - Changed scrollbar color
+- - Sent for review
+- - - Thank you for the opportunity to make this website! I had a lot of fun making it :smile: -Joseph Farrell ('28)
 
 - Day 7 - 05192024
 - - Added CSS for footer
@@ -66,8 +74,7 @@ Website for the Catholic Campus Ministry at The College of New Jersey, Ewing, Ne
 
 ## CODE LINE BREAKDOWN
 
-- - root/index.html - 
-- - root/style.css - 
-- - root/README.md - 
-- - root/dev/imgUsage.md - 17
-- - root/dev/maintaining.md - 
+- - root/index.html - 189
+- - root/style.css - 14
+- - root/README.md - 81
+- - root/dev/imgUsage.md - 18

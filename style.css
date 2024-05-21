@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Red+Rose:wght@300..700&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
-html{ max-width: 1920px; overflow-x: hidden; background-color: #EDF7FD; }
-img{ width: 75%; margin-left: auto !important; margin-right: auto !important; }
+html{ max-width: 1920px; overflow-x: hidden; background-color: #EDF7FD; scrollbar-color: #D6F1FF #000414; }
 #header{ padding-top: 136px; padding-bottom: 30px; background-image: url(img/CCM\ Spiritual\ Center.png); background-size: contain; background-position-x: center; background-repeat: no-repeat; }
+#footer{ background-image: linear-gradient(to bottom, #00000000 0%, #000000 35%); padding-top: 65px; padding-bottom: 20px;}
 .text-header{ font-size: 64px; color: #D6F1FF; text-shadow: 2px 2px black, 2px -2px black, -2px 2px black, -2px -2px black; font-family: "Poetsen One", cursive; }
 .text-header.sh-header{ font-size: 32px; }
-.text-header.text-footer{ font-size: 16px; text-decoration: underline; }
+.text-header.text-footer{ font-size: 20px; text-decoration: underline; text-shadow: none; }
 .text-subheader{ font-size: 48px; color: #183A38; background-color: #CDEFF4; border-radius: 25px; font-family: "Red Rose", serif; }
 .text-content{ font-size: 24px; color: #000414; line-height: 65px; font-family: Urbanist, sans-serif; }
 .text-content>p{ font-size: 30px; font-weight: 700; }
-.text-footer{ font-size: 12px; color: #D6F1FF; }
+.text-footer{ font-size: 16px; color: #D6F1FF; }
+.caption{ font-size: 18px; color: #000414; font-family: Urbanist, sans-serif }
+.pic-section{ height: 433.42px; }
+.non-pic-section{ width: 75%; }
