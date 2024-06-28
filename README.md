@@ -8,6 +8,9 @@ Website for the Catholic Campus Ministry at The College of New Jersey, Ewing, Ne
 
 ## CHANGELOG
 
+- Day 9 - 06282024
+- - Fixed spacing issues on lower aspect ratios
+
 - Day 8 - 05202024
 - - Added information for footer
 - - Fixed image height

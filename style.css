@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Red+Rose:wght@300..700&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
 html{ max-width: 1920px; overflow-x: hidden; background-color: #EDF7FD; scrollbar-color: #D6F1FF #000414; }
-#header{ padding-top: 136px; padding-bottom: 30px; background-image: url(img/CCM\ Spiritual\ Center.png); background-size: contain; background-position-x: center; background-repeat: no-repeat; }
+#header{ padding-top: 136px; padding-bottom: calc(30px + 10%); background-image: url(img/CCM\ Spiritual\ Center.png); background-size: cover; background-position-x: center; background-repeat: no-repeat; }
 #footer{ background-image: linear-gradient(to bottom, #00000000 0%, #000000 35%); padding-top: 65px; padding-bottom: 20px;}
 .text-header{ font-size: 64px; color: #D6F1FF; text-shadow: 2px 2px black, 2px -2px black, -2px 2px black, -2px -2px black; font-family: "Poetsen One", cursive; }
 .text-header.sh-header{ font-size: 32px; }
